@@ -60,13 +60,6 @@ flutter run
 
 ```
 
-### 4. Run Application
-
-```bash
-flutter run
-
-```
-
 ### 5. API Reference
 
 This project uses public API from:
