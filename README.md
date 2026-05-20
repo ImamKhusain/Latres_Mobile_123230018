@@ -47,13 +47,9 @@ cd Latres_123230018_ImamKhusain
 flutter pub get
 ```
 
-If needed, configure your Android device or emulator, then run the app:
-
-```bash
-flutter run
-```
-
 ### 4. Run Application
+
+If needed, configure your Android device or emulator, then run the app:
 
 ```bash
 flutter run
